@@ -37,7 +37,8 @@ void caesarCipher(char* text, int shift) {
         text[i] = ch;
     }
 }
-
+```
+```
 int main() {
     char text[100];
     int shift;
